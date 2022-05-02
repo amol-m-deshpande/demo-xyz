@@ -3,6 +3,7 @@ const gotLangModel = document.getElementById("gotLangModel");
 
 const getAcoModel = document.getElementById("getAcoModel");
 const gotAcoModel = document.getElementById("gotAcoModel");
+console.log("Testing")
 
 $(document).ready(() => {
     section1.click();
